@@ -1,0 +1,6 @@
+.card-list {
+  height: 100%; /* Ocupa toda la altura del contenedor padre */
+  overflow-y: auto; /* Habilita el scroll vertical */
+  margin-left: 0; /* Corrige márgenes negativos del row */
+  margin-right: 0;
+}
